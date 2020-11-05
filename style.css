@@ -50,11 +50,11 @@ input {
 }
 
 input:valid {
-  border: 1.8px solid green;
+  border: 1.6px solid green;
 }
 
 input:invalid {
-  border: 1.px solid red;
+  border: 1.6px solid red;
 }
 
 button{
